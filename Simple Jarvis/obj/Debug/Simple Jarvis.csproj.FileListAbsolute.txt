@@ -1,0 +1,30 @@
+c:\users\agustin\Source\repos\Simple Jarvis\Simple Jarvis\bin\Debug\Simple Jarvis.exe.config
+c:\users\agustin\Source\repos\Simple Jarvis\Simple Jarvis\bin\Debug\Simple Jarvis.exe
+c:\users\agustin\Source\repos\Simple Jarvis\Simple Jarvis\bin\Debug\Simple Jarvis.pdb
+c:\users\agustin\Source\repos\Simple Jarvis\Simple Jarvis\obj\Debug\Simple Jarvis.csprojAssemblyReference.cache
+c:\users\agustin\Source\repos\Simple Jarvis\Simple Jarvis\obj\Debug\MainWindow.g.cs
+c:\users\agustin\Source\repos\Simple Jarvis\Simple Jarvis\obj\Debug\App.g.cs
+c:\users\agustin\Source\repos\Simple Jarvis\Simple Jarvis\obj\Debug\Simple Jarvis_MarkupCompile.cache
+c:\users\agustin\Source\repos\Simple Jarvis\Simple Jarvis\obj\Debug\Simple Jarvis_MarkupCompile.lref
+c:\users\agustin\Source\repos\Simple Jarvis\Simple Jarvis\obj\Debug\MainWindow.baml
+c:\users\agustin\Source\repos\Simple Jarvis\Simple Jarvis\obj\Debug\Simple Jarvis.g.resources
+c:\users\agustin\Source\repos\Simple Jarvis\Simple Jarvis\obj\Debug\Simple_Jarvis.Properties.Resources.resources
+c:\users\agustin\Source\repos\Simple Jarvis\Simple Jarvis\obj\Debug\Simple Jarvis.csproj.GenerateResource.cache
+c:\users\agustin\Source\repos\Simple Jarvis\Simple Jarvis\obj\Debug\Simple Jarvis.csproj.CoreCompileInputs.cache
+c:\users\agustin\Source\repos\Simple Jarvis\Simple Jarvis\obj\Debug\Simple Jarvis.exe
+c:\users\agustin\Source\repos\Simple Jarvis\Simple Jarvis\obj\Debug\Simple Jarvis.pdb
+C:\Users\agustin\Dropbox\Documents\Visual Studio 2017\Projects\Simple Jarvis\Simple Jarvis\bin\Debug\Simple Jarvis.exe.config
+C:\Users\agustin\Dropbox\Documents\Visual Studio 2017\Projects\Simple Jarvis\Simple Jarvis\bin\Debug\Simple Jarvis.exe
+C:\Users\agustin\Dropbox\Documents\Visual Studio 2017\Projects\Simple Jarvis\Simple Jarvis\bin\Debug\Simple Jarvis.pdb
+C:\Users\agustin\Dropbox\Documents\Visual Studio 2017\Projects\Simple Jarvis\Simple Jarvis\obj\Debug\Simple Jarvis.csprojAssemblyReference.cache
+C:\Users\agustin\Dropbox\Documents\Visual Studio 2017\Projects\Simple Jarvis\Simple Jarvis\obj\Debug\MainWindow.g.cs
+C:\Users\agustin\Dropbox\Documents\Visual Studio 2017\Projects\Simple Jarvis\Simple Jarvis\obj\Debug\App.g.cs
+C:\Users\agustin\Dropbox\Documents\Visual Studio 2017\Projects\Simple Jarvis\Simple Jarvis\obj\Debug\Simple Jarvis_MarkupCompile.cache
+C:\Users\agustin\Dropbox\Documents\Visual Studio 2017\Projects\Simple Jarvis\Simple Jarvis\obj\Debug\Simple Jarvis_MarkupCompile.lref
+C:\Users\agustin\Dropbox\Documents\Visual Studio 2017\Projects\Simple Jarvis\Simple Jarvis\obj\Debug\MainWindow.baml
+C:\Users\agustin\Dropbox\Documents\Visual Studio 2017\Projects\Simple Jarvis\Simple Jarvis\obj\Debug\Simple Jarvis.g.resources
+C:\Users\agustin\Dropbox\Documents\Visual Studio 2017\Projects\Simple Jarvis\Simple Jarvis\obj\Debug\Simple_Jarvis.Properties.Resources.resources
+C:\Users\agustin\Dropbox\Documents\Visual Studio 2017\Projects\Simple Jarvis\Simple Jarvis\obj\Debug\Simple Jarvis.csproj.GenerateResource.cache
+C:\Users\agustin\Dropbox\Documents\Visual Studio 2017\Projects\Simple Jarvis\Simple Jarvis\obj\Debug\Simple Jarvis.csproj.CoreCompileInputs.cache
+C:\Users\agustin\Dropbox\Documents\Visual Studio 2017\Projects\Simple Jarvis\Simple Jarvis\obj\Debug\Simple Jarvis.exe
+C:\Users\agustin\Dropbox\Documents\Visual Studio 2017\Projects\Simple Jarvis\Simple Jarvis\obj\Debug\Simple Jarvis.pdb
